@@ -1,0 +1,49 @@
+{
+  "glidePWAAddToHead": "<link rel=\"apple-touch-startup-image\" media=\"(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPhone XS Max.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPhone XS.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPhone XR.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPhone 8 Plus.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPhone 8.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPhone SE.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPad Pro 12.9-inch.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPad Pro 11-inch.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPad Pro 10.5-inch.png?alt=media\" /><link rel=\"apple-touch-startup-image\" media=\"(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)\" href=\"https://firebasestorage.googleapis.com/v0/b/glide-prod.appspot.com/o/pwa-assets%2F0gEOaz5IhfKzcKlw3eA9-splash-iPad 9.7-inch, iPad Mini 4.png?alt=media\" />",
+  "start_url": "https://ajedrez-cs.glideapp.io/",
+  "background_color": "#2196F3",
+  "author": "Mike Berríos",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/16x16.png",
+      "purpose": "any",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "type": "image/png",
+      "src": "images/32x32.png",
+      "sizes": "32x32",
+      "purpose": "any"
+    },
+    {
+      "type": "image/png",
+      "src": "images/192x192.png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "type": "image/png",
+      "sizes": "192x192",
+      "src": "images/192x192.png",
+      "purpose": "any"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "type": "image/png",
+      "src": "images/512x512.png"
+    },
+    {
+      "sizes": "512x512",
+      "purpose": "any",
+      "src": "images/512x512.png",
+      "type": "image/png"
+    }
+  ],
+  "short_name": "Escuela de Ajedrez Ciudad Sandino - App to Share",
+  "description": "Esta Aplicación permite realizar el Registro y llevar el Control de Asistencia de los Estudiantes de la Escuela Municipal de Ajedrez de Ciudad Sandino.",
+  "name": "Escuela de Ajedrez Ciudad Sandino - App to Share",
+  "theme_color": "#ffffff"
+}
